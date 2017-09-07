@@ -1,0 +1,3 @@
+Moetezs-MBP:src admin$ pwd > nums.txt
+Moetezs-MBP:src admin$ java Q4
+/Users/admin/Desktop/brooklynCollege/CISC3150/hw1/src
