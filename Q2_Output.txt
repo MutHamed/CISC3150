@@ -1,0 +1,7 @@
+Enter a radius for a circle: 53
+The area of the Circle is: 8824.73376393373
+To stop entering Data, type (z): 
+c
+Enter a radius for a circle: 4.4
+The area of the Circle is: 60.821233773498406
+To stop entering Data, type (z): z

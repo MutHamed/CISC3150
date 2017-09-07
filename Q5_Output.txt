@@ -1,0 +1,30 @@
+Enter x and y values for A, B and C: 
+Enter ax & ay: 
+5.5
+3.1
+Enter bx & by: 
+3.2
+4.6
+Enter cx & cy: 
+3.7
+6.6
+The length of A-B is: 3.9357337308308846
+The length of B-C is: 7.566372975210778
+The length of A-C is: 6.313477647065839
+It's a real triangle!
+
+
+Enter x and y values for A, B and C: 
+Enter ax & ay: 
+2
+2
+Enter bx & by: 
+2
+2
+Enter cx & cy: 
+2
+2
+The length of A-B is: 0.0
+The length of B-C is: 2.8284271247461903
+The length of A-C is: 2.8284271247461903
+It's not a triangle
