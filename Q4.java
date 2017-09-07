@@ -9,7 +9,8 @@ public class Q4 {
 
                 String  nums = "";
                 String line = reader.readLine();
-
+                
+                // Got this bit from a tutorial online
                 while (line != null){
                         nums += line;
                         line = reader.readLine();
