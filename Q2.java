@@ -22,7 +22,7 @@ public class Q2 {
 			System.out.print("To stop entering Data, type (z): ");
 			char uInput = sc.next().charAt(0);
 			
-			//Condition to break out of loop
+			//Condition to break out of loop - could use some work, but it's all I've got right now
 			if(uInput == 'z')
 				break;
 			
