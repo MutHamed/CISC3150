@@ -1,0 +1,11 @@
+Type a sentence to tokenize
+
+I love cats and Dogs all the same
+Your sentence: I
+Your sentence: love
+Your sentence: cats
+Your sentence: and
+Your sentence: Dogs
+Your sentence: all
+Your sentence: the
+Your sentence: same
