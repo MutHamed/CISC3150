@@ -1,0 +1,16 @@
+MyString charAt: i
+
+The substring: hi
+
+MyString toLowerCase(): rejjie
+
+MyString toUpperCase(): SHILLA
+
+Comparing string s to it self: 
+true
+
+Comparing string s to it s2: 
+false
+
+Converting integer to string: 
+5
