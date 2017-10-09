@@ -1,0 +1,11 @@
+Homework 6 part 2 Answers
+
+a) Output: Woof, woof, woof!
+b) I'm a cat, go away!
+c) V must be cast because the method call() is undefined for type Object
+d) Pet@677327b6
+e) woof!
+f) Come here, kitty? ... Don't waste my time.
+g) Incompatible argument type for method call() in Cat class.
+h) four
+i) Incompatible argument type for method call() in Cat class.
